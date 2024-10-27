@@ -1,5 +1,6 @@
 # Philipp Litzenberger 
 ## Junior Front-End Developer (Learning)
+------
 
 ## Contact 
 
@@ -38,8 +39,10 @@ function evenOrOdd(number) {
 
 * **FreeCodeCamp's core curriculum** (in progress)
 * **JavaScript/Front-End course by RS School** (in progress)
+------
 
 ## Languages
+
 * **Russian:** Native
 * **German:** C1
 * **English:** B2
