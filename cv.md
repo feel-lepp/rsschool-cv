@@ -1,5 +1,6 @@
 # Philipp Litzenberger 
 ## Junior Front-End Developer (Learning)
+
 ------
 
 ## Contact 
@@ -8,6 +9,7 @@
 * **Phone Number:** +49 151 28802891
 * **Email:** feel.lepp@gmail.com
 * [**Telegram**](https://t.me/tovarishch_bober)
+
 ------
 
 ## About Me
@@ -23,6 +25,7 @@ Aspiring Front-End Developer with a basic knowledge of HTML and CSS and a growin
 * JavaScript Basics
 * Git, GitHub
 * Figma
+
 ------
 
 ## Code example
@@ -34,12 +37,14 @@ function evenOrOdd(number) {
   return (number % 2 === 0) ? "Even" : "Odd";
 }
 ```
+
 ------
 
 ## Education
 
 * **FreeCodeCamp's core curriculum** (in progress)
 * **JavaScript/Front-End course by RS School** (in progress)
+
 ------
 
 ## Languages
