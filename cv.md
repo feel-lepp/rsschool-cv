@@ -13,13 +13,14 @@
 ## About Me
 
 Aspiring Front-End Developer with a basic knowledge of HTML and CSS and a growing knowledge of JavaScript and Git. Currently focused on enhancing my skills through continuous learning and participation in the JavaScript/Front-End course by RS School.
+
 ------
 
 ## Skills
 
 * HTML5
 * CSS
-* JavaScript Basics**
+* JavaScript Basics
 * Git, GitHub
 * Figma
 ------
