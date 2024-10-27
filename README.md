@@ -1,1 +1,1 @@
-https://feel-lepp.github.io/rsschool-cv/cv
+https://feel-lepp.github.io/rsschool-cv/
